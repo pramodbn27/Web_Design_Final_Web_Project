@@ -9,5 +9,5 @@ Aditya Ashok Illur - 002776756 <br>
 <img src="https://res.cloudinary.com/dj98golzx/image/upload/v1670052695/adi_kcu9sf.jpg" width="10%" height="10%">
 
 Pramod Begur Nagaraj - 002708842 <br>
-<img src="![agm](https://user-images.githubusercontent.com/114458145/206075576-111ac276-7390-46ce-be77-74bd2ba3fb32.jpg)" width="10%" height="10%"><br>
+<img src="(https://user-images.githubusercontent.com/114458145/206075576-111ac276-7390-46ce-be77-74bd2ba3fb32.jpg)" width="10%" height="10%"><br>
 
