@@ -1,5 +1,6 @@
 const products = [
     // ------ Dermatology  ------- \\
+    //extracting the images and snapshots from several APIs
     {
         imgsrc: "https://tiimg.tistatic.com/fp/1/006/419/tazarotene-cream-0-1--641.jpg",
         title: "Tazarotene",
