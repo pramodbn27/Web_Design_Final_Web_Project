@@ -18,7 +18,7 @@ const Navbar = ({ click }) => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     
-      <Link to="/mainscreen" className="">
+      <Link to="/product" className="">
         <span className="logo">
           <img src={logo} style={{ height: "100px", width: "100px" }} alt="" />
         </span>
