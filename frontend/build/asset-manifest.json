@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2384d2a4.chunk.css",
+    "main.js": "/static/js/main.75369bba.chunk.js",
+    "main.js.map": "/static/js/main.75369bba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.267dcbbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.267dcbbc.js.map",
+    "static/js/2.ff0050c3.chunk.js": "/static/js/2.ff0050c3.chunk.js",
+    "static/js/2.ff0050c3.chunk.js.map": "/static/js/2.ff0050c3.chunk.js.map",
+    "static/js/3.ec09dea3.chunk.js": "/static/js/3.ec09dea3.chunk.js",
+    "static/js/3.ec09dea3.chunk.js.map": "/static/js/3.ec09dea3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2384d2a4.chunk.css.map": "/static/css/main.2384d2a4.chunk.css.map",
+    "static/js/2.ff0050c3.chunk.js.LICENSE.txt": "/static/js/2.ff0050c3.chunk.js.LICENSE.txt",
+    "static/media/Fracture.a29df004.jpg": "/static/media/Fracture.a29df004.jpg",
+    "static/media/caro1.33dba005.jpg": "/static/media/caro1.33dba005.jpg",
+    "static/media/caro2.135b54c5.jpg": "/static/media/caro2.135b54c5.jpg",
+    "static/media/caro3.88e8bdd3.jpg": "/static/media/caro3.88e8bdd3.jpg",
+    "static/media/caro4.3645202b.webp": "/static/media/caro4.3645202b.webp",
+    "static/media/dental.9d5443d3.jpg": "/static/media/dental.9d5443d3.jpg",
+    "static/media/depression.a29b1518.jpg": "/static/media/depression.a29b1518.jpg",
+    "static/media/derma1.b58584f4.jpg": "/static/media/derma1.b58584f4.jpg",
+    "static/media/diabet3.ded503e8.jpg": "/static/media/diabet3.ded503e8.jpg",
+    "static/media/npharma.c079aff5.png": "/static/media/npharma.c079aff5.png",
+    "static/media/MainScreen.css": "/static/media/pexels-gdtography-911758.dcdff90a.jpg",
+    "static/media/styles.module.css": "/static/media/pexels-suzy-hazelwood-3652103.112e5de5.jpg",
+    "static/media/womens.ef041e4b.jpg": "/static/media/womens.ef041e4b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.267dcbbc.js",
+    "static/js/2.ff0050c3.chunk.js",
+    "static/css/main.2384d2a4.chunk.css",
+    "static/js/main.75369bba.chunk.js"
+  ]
+}
