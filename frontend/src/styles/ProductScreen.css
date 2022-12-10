@@ -74,6 +74,9 @@
   padding: 10px 16px;
 }
 
+
+//using @media
+  
 @media (max-width: 960px) {
   .productscreen {
     flex-direction: column;
@@ -96,6 +99,7 @@
     flex: 1;
     padding: 1rem;
   }
+  
 
   .right__info {
     width: 100%;
